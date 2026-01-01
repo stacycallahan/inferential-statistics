@@ -7,3 +7,5 @@ Welcome! This repository contains a Jupyter Notebook exploring why inferential s
 ## Open the Notebook
 
 [📓 Click here to view the notebook](population_to_sample_and_back_again.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/population_to_sample_and_back_again.ipynb)
