@@ -1,5 +1,25 @@
-# My Project
+# Population to Sample and Back Again: An Exploration of Inferential Statistics
 
-Click here to view the main notebook:
+Welcome! This repository contains a Jupyter Notebook exploring why **inferential statistics**, using a sample to infer characteristics of a population, first requires understanding the population -> sample relationship. This project was inspired by a statistics class I took and is intended as a reflection on what I learned.
 
-[Open the notebook](inferentialstatistics.ipynb)
+The notebook contains:
+- Simulation using Python with NumPy, SciPy, Matplotlib, and Seaborn
+- Sampling from a population
+- Estimating population parameters
+- Central Limit Theorem in action
+- Confidence intervals and Monte Carlo simulations
+
+---
+
+## Open the Notebook
+
+[📓 Click here to view the notebook](inferentialstatistics.ipynb)
+
+---
+
+## Optional: Run it interactively
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USERNAME/REPO/main)
+
+- Launch the notebook in your browser without installing anything.
+- Replace `USERNAME` and `REPO` with your GitHub username and repository name.
