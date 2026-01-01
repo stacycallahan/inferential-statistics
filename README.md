@@ -7,5 +7,3 @@ Welcome! This repository contains a Jupyter Notebook exploring why inferential s
 ## Open the Notebook
 
 [📓 Click here to view the notebook](population_to_sample_and_back_again.ipynb)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stacycallahan/inferential-statistics/main)
