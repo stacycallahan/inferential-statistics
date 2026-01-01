@@ -14,12 +14,3 @@ The notebook contains:
 ## Open the Notebook
 
 [📓 Click here to view the notebook](inferentialstatistics.ipynb)
-
----
-
-## Optional: Run it interactively
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USERNAME/REPO/main)
-
-- Launch the notebook in your browser without installing anything.
-- Replace `USERNAME` and `REPO` with your GitHub username and repository name.
