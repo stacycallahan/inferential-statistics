@@ -6,4 +6,4 @@ Welcome! This repository contains a Jupyter Notebook exploring why inferential s
 
 ## Open the Notebook
 
-[📓 Click here to view the notebook](inferentialstatistics.ipynb)
+[📓 Click here to view the notebook](population_to_sample_and_back_again.ipynb)
